@@ -47,8 +47,6 @@
 			print("*");
 			echo "<br>";
 		}
-		
-
 	 ?>
 </body>
 </html>
